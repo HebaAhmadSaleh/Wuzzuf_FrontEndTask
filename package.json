@@ -1,0 +1,44 @@
+{
+  "name": "feeds_dashboard",
+  "version": "1.0.0",
+  "description": "dashboard for Listing, Editing and Creating new Smartlink ",
+  "main": "entry.js",
+  "scripts": {
+    "test": "mocha-webpack --webpack-config webpack.config-test.js \"src/**/*.test.js\""
+  },
+  "keywords": [
+    "react",
+    "flux",
+    "JsonPlaceholder",
+    "apis"
+  ],
+  "author": "Heba Ahmad Saleh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "bootstrap-without-jquery": "^1.0.4",
+    "css-loader": "^0.26.1",
+    "flux": "^3.1.2",
+    "lowdb": "^0.14.0",
+    "react": "^15.5.4",
+    "react-bootstrap": "^0.30.7",
+    "react-dom": "^15.5.4",
+    "react-sidebar": "^2.3.2",
+    "style-loader": "^0.13.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.20.0",
+    "babel-jest": "^19.0.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.26.1",
+    "enzyme": "^2.8.2",
+    "jest": "^19.0.2",
+    "npm": "^4.0.5",
+    "react-sidenav": "^2.1.1",
+    "react-test-renderer": "^15.5.4",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.14.0"
+  }
+}

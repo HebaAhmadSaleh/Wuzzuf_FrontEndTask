@@ -1,0 +1,26 @@
+
+body{
+    background-color: aliceblue;
+    padding: 0 !important;
+    height: 400px;
+    }
+
+#add-btn{
+    position:absolute;
+    bottom: 50px;
+    right: 50px;
+
+}
+
+
+.item{
+    height: 400px;
+    width: 400px;
+    margin: 20px;
+    textAlign: center;
+    display: inline-block;
+}
+
+.add{
+    margin-bottom:20px;
+}

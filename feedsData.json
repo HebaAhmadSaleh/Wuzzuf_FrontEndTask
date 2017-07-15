@@ -1,0 +1,45 @@
+{
+  "feedsData": [
+    {
+      "id": "1212",
+      "url": "secondUrl.com",
+      "data": {
+        "jobtitle": "Outdoor Sale Representative",
+        "description": "Identitifes business opportunities by identifying prospects and evaluation their position in the industry",
+        "imgURL": "http://www.coca-colarussia.ru/content/dam/journey/ru/ru/private/2015/04/0-zahod-800-650-366-f9631eeb.rendition.598.336.png"
+      }
+    },
+    {
+      "id": "1213332",
+      "url": "thirdUrl.com",
+      "data": {
+        "jobtitle": "Outdoor Sale Representative",
+        "description": "Identitifes business opportunities by identifying prospects and evaluation their position in the industry",
+        "imgURL": "http://www.coca-colarussia.ru/content/dam/journey/ru/ru/private/2015/04/0-zahod-800-650-366-f9631eeb.rendition.598.336.png"
+      }
+    },
+    {
+      "id": "1213sss2",
+      "url": "FourthUrl.com",
+      "data": {
+        "jobtitle": "Outdoor Sale Representative",
+        "description": "Identitifes business opportunities by identifying prospects and evaluation their position in the industry",
+        "imgURL": "http://www.coca-colarussia.ru/content/dam/journey/ru/ru/private/2015/04/0-zahod-800-650-366-f9631eeb.rendition.598.336.png"
+      }
+    },
+    {
+      "id": "121333sssss2",
+      "url": "FifthhUrl.com",
+      "data": {
+        "jobtitle": "Outdoor Sale Representative",
+        "location": "Cairo",
+        "gender":"male",
+        "salary":"Negotiable",
+        "housingAllowance":"No",
+        "overtime":"Yes",
+        "transportation":"No",
+        "imgURL": "http://www.coca-colarussia.ru/content/dam/journey/ru/ru/private/2015/04/0-zahod-800-650-366-f9631eeb.rendition.598.336.png"
+      } 
+    }
+  ]
+}
